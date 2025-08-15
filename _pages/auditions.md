@@ -6,7 +6,7 @@ permalink: /audition/
 
 ## Join Blend
 
-Ready to sing your heart out and join a tight-knit group of fun-loving folx who share your passion? Blend Vocal Association of Calgary is a vibrant treble choir, holding auditions for our upcoming season!  We perform a wide variety of music, from folk and jazz to contemporary, rock and pop under the direction of our Music Director, Rejean Campbell.
+Ready to sing your heart out and join a tight-knit group of fun-loving folx who share your passion? Blend Vocal Association of Calgary is a vibrant treble choir, holding auditions for our upcoming season!  We perform a wide variety of music, from folk and jazz to contemporary, rock and pop under the direction of our Music Director, Réjean Campbell.
 
 We're specifically looking for alto voices to round out our sound. If you're a lower treble singer who has a great sense of humor, and is ready to create some beautiful music with us, we want to hear from you!
 
