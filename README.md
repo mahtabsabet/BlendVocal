@@ -13,17 +13,20 @@ A welcoming community choir website built with Jekyll and hosted on GitHub Pages
 ### Local Development Setup
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/yourusername/BlendVocal.git
    cd BlendVocal
    ```
 
 2. **Install Ruby dependencies**
+
    ```bash
    bundle install
    ```
 
 3. **Start the local development server**
+
    ```bash
    bundle exec jekyll serve
    ```
@@ -34,6 +37,7 @@ A welcoming community choir website built with Jekyll and hosted on GitHub Pages
 ### Development Commands
 
 - **Start development server with live reload:**
+
   ```bash
   bundle exec jekyll serve --livereload
   ```
@@ -62,6 +66,7 @@ BlendVocal/
 1. **Create a new page:**
    - Add a new `.md` file in the `_pages/` directory
    - Use the following front matter format:
+
    ```yaml
    ---
    title: "Page Title"
@@ -90,6 +95,7 @@ This site is automatically deployed to GitHub Pages when changes are pushed to t
 ### Manual Deployment
 
 1. **Commit your changes:**
+
    ```bash
    git add .
    git commit -m "Your commit message"
