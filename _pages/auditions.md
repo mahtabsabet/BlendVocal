@@ -16,6 +16,8 @@ We're specifically looking for alto voices to round out our sound. If you're a l
 
 **Where:** Southwest Calgary (exact location provided upon booking)
 
+Email us at [blendvocal@gmail.com](mailto:blendvocal@gmail.com) to book your audition spot!
+
 ## What we're looking for
 
 **Vocal Ability:** Be prepared to sing a solo piece that shows off your vocal range and style. We love jazz, musical theatre, and pop, so a song from one of these genres would be perfect. Please bring an accompaniment track with you.
