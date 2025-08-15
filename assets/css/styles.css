@@ -1,0 +1,21 @@
+/* Minimal, accessible styles for a clean coming-soon page */
+:root { --bg:#0b0b0c; --fg:#f5f6f7; --sub:#b6bac2; --chip:#22252b; --ring:#3a3f47; }
+@media (prefers-color-scheme: light) {
+  :root { --bg:#f9fafb; --fg:#0b0b0c; --sub:#4b5563; --chip:#ffffff; --ring:#e5e7eb; }
+}
+* { box-sizing: border-box; }
+html,body { height:100%; }
+body {
+  margin:0; display:grid; place-items:center; min-height:100%;
+  font:500 18px/1.6 ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial;
+  color:var(--fg); background:radial-gradient(80vmax 80vmax at 50% -10%, var(--ring), transparent 60%), var(--bg);
+}
+.wrap { text-align:center; padding:3rem 1.25rem; max-width:48rem; width:100%; }
+h1 { font-size:clamp(2rem, 4vw + 1rem, 3rem); margin:0 0 .75rem; letter-spacing:.2px; }
+p { color:var(--sub); margin:.25rem 0 1.25rem; }
+a { color:inherit; }
+.chip {
+  display:inline-block; padding:.5rem .9rem; border:1px solid var(--ring);
+  border-radius:999px; background:var(--chip); font-size:.95rem;
+}
+footer { margin-top:2rem; font-size:.9rem; color:var(--sub); }
