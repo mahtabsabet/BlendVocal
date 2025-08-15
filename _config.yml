@@ -1,0 +1,13 @@
+title: Blend Vocal Association of Calgary
+description: A welcoming treble choir in Calgary
+url: https://blendvocal.ca
+theme: null
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache   # supported by GitHub Pages
+minimal_mistakes_skin: default
+logo: /assets/img/favicon.svg
+permalink: /:path/
+collections: []
+include:
+  - _pages
