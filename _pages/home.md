@@ -12,3 +12,7 @@ header:
 We perform a wide variety of music, from folk and jazz to contemporary, rock and pop, creating beautiful harmonies and meaningful connections through song.
 
 {: .text-center}
+
+## 🎤 Want to Join Us?
+
+We hold auditions twice a year – find out more here: [Auditions](/auditions)
