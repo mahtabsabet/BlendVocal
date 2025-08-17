@@ -15,4 +15,4 @@ We perform a wide variety of music, from folk and jazz to contemporary, rock and
 
 ## 🎤 Want to Join Us?
 
-We hold auditions twice a year – find out more here: [Auditions](/auditions)
+We hold auditions twice a year – find out more here: [Audition](/audition)
