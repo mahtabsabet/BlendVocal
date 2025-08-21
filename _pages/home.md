@@ -1,13 +1,13 @@
 ---
 layout: splash
 permalink: /
-title: "Home"
+title: "Blend Vocal Association"
 header:
   image: /assets/img/Blend2025.png
   image_description: "Blend Vocal ensemble"
 ---
 
-## 🎼 Blend Vocal Association - An Auditioned Treble Choir in Calgary
+# 🎼 Blend Vocal Association - An Auditioned Treble Choir in Calgary
 
 **Blend Vocal Association of Calgary** is a vibrant auditioned treble choir focused on connection, growth, and great music. Founded with the vision of creating exceptional musical experiences through collaboration and dedication, we bring together talented singers who share a passion for vocal excellence.
 
