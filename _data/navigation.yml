@@ -3,6 +3,8 @@ main:
     url: /
   - title: "Concerts"
     url: /concerts/
+  - title: "Listen"
+    url: /listen/
   - title: "About"
     url: /about/
   - title: "Audition"
