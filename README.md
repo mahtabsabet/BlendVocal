@@ -50,11 +50,13 @@ BlendVocal/
 ├── _data/               # Site data files
 │   └── navigation.yml   # Navigation menu
 ├── _pages/              # Page content
+│   ├── home.md          # Home page
+│   ├── concerts.md      # Concerts & events page
 │   ├── about.md         # About page
-│   ├── auditions.md     # Auditions page
-│   └── home.md          # Home page
+│   └── auditions.md     # Auditions page
 ├── _site/               # Generated site (don't edit)
-├── assets/              # Static assets (CSS, JS, images)
+├── assets/              # Static assets
+│   └── img/             # Images (posters, photos, etc.)
 ├── Gemfile              # Ruby dependencies
 └── CNAME                # Custom domain configuration
 ```
