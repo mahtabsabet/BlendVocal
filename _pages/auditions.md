@@ -11,15 +11,11 @@ excerpt: "Ready to join Calgary's vibrant treble choir? Auditions held twice yea
 
 Ready to sing your heart out and join a tight-knit group of fun-loving folx who share your passion? Blend Vocal Association of Calgary is a vibrant treble choir, holding auditions for our upcoming season!  We perform a wide variety of music, from folk and jazz to contemporary, rock and pop under the direction of our Music Director, Réjean Campbell.
 
-We're specifically looking for alto voices to round out our sound. If you're a lower treble singer who has a great sense of humor, and is ready to create some beautiful music with us, we want to hear from you!
-
 ## Audition Details
 
-**When:** Thursday, September 4th, 7:00 PM–9:00 PM
+We will be holding auditions in January, 2026 for our upcoming season. Check back here for more details in the coming weeks.
 
-**Where:** Southwest Calgary (exact location provided upon booking)
-
-Email us at [blendvocal@gmail.com](mailto:blendvocal@gmail.com) to book your audition spot!
+Email us at [blendvocal@gmail.com](mailto:blendvocal@gmail.com) with any questions.
 
 ## What we're looking for
 
@@ -31,7 +27,7 @@ Email us at [blendvocal@gmail.com](mailto:blendvocal@gmail.com) to book your aud
 
 ## Commitment
 
-**Rehearsals & Performances:** Rehearsals are Thursdays, 6:45 PM–9:00 PM in Southwest Calgary, with our first rehearsal on Thursday, September 11th. We perform a full program for both our fall and spring seasons, which we learn and memorize. Our winter concert is tentatively scheduled for Friday, December 19th, with other opportunities throughout the year.
+**Rehearsals & Performances:** Rehearsals are Thursdays, 6:45 PM–9:00 PM in Southwest Calgary. We perform a full program for both our fall and spring seasons, which we learn and memorize.
 
 **Workshops:** We also hold two six-hour weekend workshops per season to polish our sound and have fun together.
 
