@@ -1,7 +1,10 @@
 ---
 layout: single
 title: "Audition"
+description: "Audition for Blend Vocal Association Calgary! We're seeking alto voices for our treble choir. Rehearsals Thursdays 6:45-9 PM in Southwest Calgary. Email blendvocal@gmail.com to book your audition."
+keywords: "Calgary choir auditions, join Calgary choir, treble choir auditions, choir audition requirements, Blend Vocal auditions"
 permalink: /audition/
+excerpt: "Ready to join Calgary's vibrant treble choir? Auditions held twice yearly."
 ---
 
 ## Join Blend

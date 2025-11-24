@@ -2,12 +2,35 @@
 layout: splash
 permalink: /
 title: "Home"
+description: "Join Calgary's premier auditioned treble choir! Blend Vocal Association performs folk, jazz, contemporary, rock and pop music. Auditions held twice yearly. Winter Reverie concert December 20, 2025."
+keywords: "Calgary choir, treble choir Calgary, women's choir Calgary, auditioned choir, Calgary music, vocal ensemble, holiday concert Calgary, Winter Reverie"
 header:
   image: /assets/img/Blend2025.png
   image_description: "Blend Vocal ensemble"
+og_image: /assets/img/Blend2025.png
+excerpt: "Calgary's vibrant auditioned treble choir performing folk, jazz, contemporary, rock and pop music. Join us for Winter Reverie on December 20th!"
 ---
 
 # 🎼 Blend Vocal Association - An Auditioned Treble Choir in Calgary
+
+---
+
+## 🎄 Join Us for Winter Reverie - December 20th!
+
+**Mark your calendars for an evening of winter and holiday magic!**
+
+![Winter Reverie Concert Poster](/assets/img/WinterReverieConcert2025.png){: .align-center width="500px"}
+
+📅 **Saturday, December 20, 2025 at 7:00 PM**  
+📍 **St. Laurence Church** - 5940 Lakeview Dr SW, Calgary  
+🎟️ **Tickets:** $30 Adults | $25 Students & Seniors
+
+Experience holiday classics, beautiful acapella pieces, and Canadian favorites performed by our 14-voice treble ensemble!
+
+[🎫 Get Tickets on Eventbrite](https://www.eventbrite.com/e/1968864720379?aff=oddtdtcreator){: .btn .btn--primary .btn--large target="_blank" rel="noopener noreferrer"}  
+[Learn More About the Concert](/concerts/){: .btn .btn--info}
+
+---
 
 **Blend Vocal Association of Calgary** is a vibrant auditioned treble choir focused on connection, growth, and great music. Founded with the vision of creating exceptional musical experiences through collaboration and dedication, we bring together talented singers who share a passion for vocal excellence.
 

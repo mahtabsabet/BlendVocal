@@ -2,6 +2,13 @@ title: Blend Vocal - Calgary Community Treble Choir
 description: A welcoming treble choir in Calgary
 url: https://blendvocal.ca
 locale: en
+twitter:
+  username: blendvocal
+social:
+  name: Blend Vocal Association
+  links:
+    - https://www.facebook.com/BlendVocalAssociation
+    - https://www.instagram.com/blendvocal/
 theme: null
 remote_theme: mmistakes/minimal-mistakes
 plugins:

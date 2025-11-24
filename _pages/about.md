@@ -1,7 +1,10 @@
 ---
 layout: single
 title: "About us"
+description: "Learn about Blend Vocal Association of Calgary, a vibrant treble choir performing folk, jazz, contemporary, rock and pop. Meet our Music Director Réjean Campbell and discover our rehearsal schedule."
+keywords: "about Blend Vocal, Calgary choir, Réjean Campbell, music director Calgary, treble choir, choir rehearsals Calgary"
 permalink: /about/
+excerpt: "A vibrant treble choir in Calgary performing diverse repertoire from folk and jazz to contemporary and pop music."
 ---
 
 **Blend Vocal Association of Calgary** is a vibrant treble choir focused on connection, growth, and great music.

@@ -1,6 +1,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "Concerts"
+    url: /concerts/
   - title: "About"
     url: /about/
   - title: "Audition"
