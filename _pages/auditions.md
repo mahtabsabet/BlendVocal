@@ -13,9 +13,7 @@ Ready to sing your heart out and join a tight-knit group of fun-loving folx who 
 
 ## Audition Details
 
-We will be holding auditions in January, 2026 for our upcoming season. Check back here for more details in the coming weeks.
-
-Email us at [blendvocal@gmail.com](mailto:blendvocal@gmail.com) with any questions.
+We will be holding auditions on January 8, 2026 for our upcoming season. Email us at [blendvocal@gmail.com](mailto:blendvocal@gmail.com) to book your audition spot.
 
 ## What we're looking for
 
