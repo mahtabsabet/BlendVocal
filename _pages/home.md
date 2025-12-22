@@ -15,23 +15,6 @@ excerpt: "Calgary's vibrant auditioned treble choir performing folk, jazz, conte
 
 ---
 
-## 🎄 Join Us for Winter Reverie - December 20th!
-
-**Mark your calendars for an evening of winter and holiday magic!**
-
-![Winter Reverie Concert Poster](/assets/img/WinterReverieConcert2025.png){: .align-center width="500px"}
-
-📅 **Saturday, December 20, 2025 at 7:00 PM**  
-📍 **St. Laurence Church** - 5940 Lakeview Dr SW, Calgary  
-🎟️ **Tickets:** $30 Adults | $25 Students & Seniors
-
-Experience holiday classics, beautiful acapella pieces, and Canadian favorites performed by our 14-voice treble ensemble!
-
-[🎫 Get Tickets on Eventbrite](https://www.eventbrite.com/e/1968864720379?aff=oddtdtcreator){: .btn .btn--primary .btn--large target="_blank" rel="noopener noreferrer"}  
-[Learn More About the Concert](/concerts/){: .btn .btn--info}
-
----
-
 **Blend Vocal Association of Calgary** is a vibrant auditioned treble choir focused on connection, growth, and great music. Founded with the vision of creating exceptional musical experiences through collaboration and dedication, we bring together talented singers who share a passion for vocal excellence.
 
 We perform a wide variety of music, from folk and jazz to contemporary, rock and pop, creating beautiful harmonies and meaningful connections through song. Our diverse repertoire challenges our members while delighting audiences with fresh interpretations of beloved classics and exciting new arrangements.
@@ -43,6 +26,12 @@ This choir is perfect for singers with musical experience who want a group that 
 We rehearse weekly in a supportive environment where every voice matters. Whether you're a seasoned performer or someone returning to choral music after a break, you'll find a welcoming community that encourages growth and celebrates individual contributions to our shared sound.
 
 ## 🎤 Want to Join Us?
+
+**🎯 Upcoming Auditions: January 8, 2026**
+
+We're holding auditions for our upcoming season! If you're ready to join Calgary's vibrant treble choir, email us at [blendvocal@gmail.com](mailto:blendvocal@gmail.com) to book your audition spot. [Learn more about our audition process and what we're looking for →](/audition)
+
+---
 
 We hold auditions twice a year – find out more here: [Audition](/audition)
 

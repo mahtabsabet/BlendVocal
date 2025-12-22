@@ -85,16 +85,6 @@ Our group has grown to 14 voices, and we are excited to bring you a bigger blend
 
 Mark your calendars, gather your friends and family, and join us for an evening of winter and holiday inspired music. Our repertoire ranges from holiday classics like *I'll Be Home for Christmas* and *O Holy Night*, to beautiful acapella pieces like *Kyrie*, and Canadian icons like *River* and *The Hockey Song*. We guarantee an entertaining evening that will raise your spirits!
 
-### Tickets
-
-**Prices:**
-- Adults: $30
-- Students & Seniors: $25
-
-**Available:**
-- Online: [Get Tickets on Eventbrite](https://www.eventbrite.com/e/1968864720379?aff=oddtdtcreator)
-- At the door (cash or card accepted)
-
 Don't miss out on celebrating the season with us and sharing our love of music!
 
 ---
