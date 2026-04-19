@@ -5,7 +5,7 @@ title: "Home"
 description: "Calgary's premier auditioned treble choir! Blend Vocal Association performs folk, jazz, contemporary, rock and pop music. Join us for Dreamscape — May 2, 2026."
 keywords: "Calgary choir, treble choir Calgary, women's choir Calgary, auditioned choir, Calgary music, vocal ensemble, Dreamscape concert Calgary"
 header:
-  image: /assets/img/Blend2025.png
+  image: /assets/img/Blend2026.jpeg
   image_description: "Blend Vocal ensemble"
 og_image: /assets/img/DreamscapePoster2026.jpg
 excerpt: "Calgary's vibrant auditioned treble choir performing folk, jazz, contemporary, rock and pop music."
