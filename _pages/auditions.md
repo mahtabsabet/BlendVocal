@@ -13,7 +13,7 @@ Ready to sing your heart out and join a tight-knit group of fun-loving folx who 
 
 ## Audition Details
 
-We will be holding auditions on January 8, 2026 for our upcoming season. Email us at [blendvocal@gmail.com](mailto:blendvocal@gmail.com) to book your audition spot.
+Interested in joining Blend Vocal? Email us at [blendvocal@gmail.com](mailto:blendvocal@gmail.com) to set up an appointment for an audition.
 
 ## What we're looking for
 
