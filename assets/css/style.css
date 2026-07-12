@@ -104,6 +104,7 @@ h1,h2,h3,h4{font-family:var(--f-display);font-weight:400;line-height:1.08;
 .on-dark .btn--outline,.btn--ondark{border-color:rgba(251,241,232,.55);color:var(--on-dark);background:transparent}
 .on-dark .btn--outline:hover,.btn--ondark:hover{background:rgba(251,241,232,.12);border-color:var(--on-dark)}
 .btn--ivory{background:#FBE9D3;color:#4a2a3a}
+.btn--sm{padding:10px 20px;font-size:14px}
 
 /* ---------- header ---------- */
 .site-header{position:fixed;inset:0 0 auto 0;z-index:50;transition:background .3s ease, box-shadow .3s ease, border-color .3s ease;
