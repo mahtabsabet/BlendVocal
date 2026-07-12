@@ -1,127 +1,48 @@
-# Blend Vocal Association of Calgary
+# Blend Vocal — blendvocal.ca
 
-A welcoming community choir website built with Jekyll and hosted on GitHub Pages.
+The website for **Blend Vocal Association of Calgary**, a vibrant auditioned treble choir.
 
-## 🚀 Quick Start
+A plain static site (HTML + CSS + a little JS) hosted on **GitHub Pages** at
+[blendvocal.ca](https://blendvocal.ca). No build step — what's in the repo is what ships.
+The `.nojekyll` file tells GitHub Pages to serve the files as-is (no Jekyll processing).
 
-### Prerequisites
+## Design — "Twilight"
 
-- **Ruby** (version 3.0 or higher)
-- **RubyGems** (usually comes with Ruby)
-- **Git**
+- **Palette:** a dusk gradient running plum-purple → teal (Blend's brand colours) with a
+  warm apricot "sunset" glow, over warm ivory.
+- **Type:** Fraunces (display serif) + Mulish (body), loaded from Google Fonts.
+- **Themes:** adapts to light and dark automatically (`prefers-color-scheme`).
 
-### Local Development Setup
-
-1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/yourusername/BlendVocal.git
-   cd BlendVocal
-   ```
-
-2. **Install Ruby dependencies**
-
-   ```bash
-   bundle install
-   ```
-
-3. **Start the local development server**
-
-   ```bash
-   bundle exec jekyll serve
-   ```
-
-4. **View your site**
-   Open your browser and navigate to `http://localhost:4000`
-
-### Development Commands
-
-- **Start development server with live reload:**
-
-  ```bash
-  bundle exec jekyll serve --livereload
-  ```
-
-## 📁 Project Structure
+## Structure
 
 ```
-BlendVocal/
-├── _config.yml          # Jekyll configuration
-├── _data/               # Site data files
-│   └── navigation.yml   # Navigation menu
-├── _pages/              # Page content
-│   ├── home.md          # Home page
-│   ├── concerts.md      # Concerts & events page
-│   ├── about.md         # About page
-│   └── auditions.md     # Auditions page
-├── _site/               # Generated site (don't edit)
-├── assets/              # Static assets
-│   └── img/             # Images (posters, photos, etc.)
-├── Gemfile              # Ruby dependencies
-└── CNAME                # Custom domain configuration
+index.html             Home
+events.html            Season schedule + featured concert (the "events calendar")
+listen.html            Recordings
+about.html             About + Music Director bio
+auditions.html         How to join
+assets/css/style.css   Design system (all shared styling)
+assets/js/site.js      Header scroll, mobile menu, footer year, logo fallback
+assets/img/            Photos, posters, favicon
+assets/audio/          Concert recordings
 ```
 
-## 🛠️ Making Changes
+## Updating things
 
-### Adding/Editing Pages
+- **Add or change an event:** edit the `<article class="event">` blocks in `events.html`
+  (and the season preview in `index.html`). Copy an existing block, then change the date,
+  title, category tag and details.
+- **Swap a photo:** drop the new file in `assets/img/` and update the `src` in the page.
+- **The logo:** add the microphone logo as `assets/img/blend-logo.png` and it appears
+  automatically in the header and footer. Until then, a simple mark stands in.
+- **Add a recording:** drop the `.mp3` in `assets/audio/` and copy a `<div class="track">`
+  block in `listen.html`.
 
-1. **Create a new page:**
-   - Add a new `.md` file in the `_pages/` directory
-   - Use the following front matter format:
+## Run locally
 
-   ```yaml
-   ---
-   title: "Page Title"
-   permalink: /page-url/
-   ---
-   ```
+```bash
+python3 -m http.server 8000
+# then open http://localhost:8000
+```
 
-2. **Edit existing pages:**
-   - Modify files in the `_pages/` directory
-   - Changes will automatically reload in development
-
-### Updating Navigation
-
-Edit `_data/navigation.yml` to modify the site navigation menu.
-
-### Styling and Assets
-
-- CSS files are in `assets/css/`
-- JavaScript files are in `assets/js/`
-- Images should be placed in `assets/img/`
-
-## 🚀 Deployment
-
-This site is automatically deployed to GitHub Pages when changes are pushed to the `main` branch.
-
-### Manual Deployment
-
-1. **Commit your changes:**
-
-   ```bash
-   git add .
-   git commit -m "Your commit message"
-   git push origin main
-   ```
-
-2. **GitHub Pages will automatically build and deploy your site**
-
-### Custom Domain
-
-The site is configured with a custom domain (`blendvocal.ca`). The `CNAME` file contains the domain configuration.
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test locally
-5. Submit a pull request
-
-## 📄 License
-
-This project is for the Blend Vocal Association of Calgary.
-
----
-
-**Need help?** Contact mahtabsabet
+No dependencies to install.
