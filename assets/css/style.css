@@ -290,7 +290,7 @@ h1,h2,h3,h4{font-family:var(--f-display);font-weight:400;line-height:1.08;
   .event__day{font-size:42px}
   .portrait{float:none;width:180px;margin:0 0 20px}
 }
-@media (max-width:720px){
+@media (max-width:860px){
   .nav{position:fixed;inset:74px 0 auto 0;flex-direction:column;align-items:stretch;gap:2px;
     background:var(--paper-2);padding:14px 20px 22px;border-bottom:1px solid var(--hair);
     box-shadow:var(--shadow-md);transform:translateY(-14px);opacity:0;pointer-events:none;transition:.22s ease}
@@ -301,4 +301,24 @@ h1,h2,h3,h4{font-family:var(--f-display);font-weight:400;line-height:1.08;
   .site-header.solid .nav a{color:var(--ink-2)}
   .nav-toggle{display:inline-flex}
 }
+/* ---------- gallery ---------- */
+.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px}
+.gallery__item{padding:0;border:0;background:var(--paper-3);cursor:pointer;border-radius:var(--radius);
+  overflow:hidden;aspect-ratio:4/3;box-shadow:var(--shadow-sm);display:block}
+.gallery__item img{width:100%;height:100%;object-fit:cover;transition:transform .45s ease}
+.gallery__item:hover img,.gallery__item:focus-visible img{transform:scale(1.05)}
+.gallery-empty{color:var(--ink-2)}
+.lightbox{position:fixed;inset:0;z-index:100;background:rgba(18,12,28,.93);display:flex;align-items:center;
+  justify-content:center;padding:24px;opacity:0;pointer-events:none;transition:opacity .25s ease}
+.lightbox.open{opacity:1;pointer-events:auto}
+.lightbox img{max-width:92vw;max-height:86vh;border-radius:10px;box-shadow:0 24px 70px rgba(0,0,0,.6)}
+.lightbox__btn{position:fixed;background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.3);
+  color:#fff;width:50px;height:50px;border-radius:50%;font-size:26px;line-height:1;cursor:pointer;
+  display:flex;align-items:center;justify-content:center;transition:background .2s}
+.lightbox__btn:hover{background:rgba(255,255,255,.28)}
+.lightbox__close{top:22px;right:22px}
+.lightbox__prev{left:22px;top:50%;transform:translateY(-50%)}
+.lightbox__next{right:22px;top:50%;transform:translateY(-50%)}
+@media (max-width:600px){.lightbox__prev{left:10px}.lightbox__next{right:10px}.lightbox__btn{width:42px;height:42px;font-size:22px}}
+
 .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);border:0}
